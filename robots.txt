@@ -1,0 +1,6 @@
+# START nuxt-simple-robots (indexable)
+User-agent: *
+Disallow: 
+
+Sitemap: https://master--beaga.netlify.app/sitemap.xml
+# END nuxt-simple-robots
