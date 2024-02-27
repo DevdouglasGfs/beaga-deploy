@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://master--beaga.netlify.app/sitemap.xml
+Sitemap: https://devdouglassilva.xyz/sitemap.xml
 # END nuxt-simple-robots
