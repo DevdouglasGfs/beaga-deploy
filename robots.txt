@@ -1,6 +1,5 @@
-# START nuxt-simple-robots (indexable)
+# START nuxt-simple-robots (indexing disabled)
 User-agent: *
-Disallow: 
+Disallow: /
 
-Sitemap: https://devdouglassilva.xyz/sitemap.xml
 # END nuxt-simple-robots
