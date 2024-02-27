@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.DlAUqK2U.js";import{c as t,E as s,o as r}from"./entry.C5lOvAvL.js";const c={},a={class:"w-full"};function n(e,l){return r(),t("main",a,[s(e.$slots,"default")])}const m=o(c,[["render",n]]);export{m as default};
